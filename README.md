@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-[Clique aqui par acessar]{https://Degson01.github.io/nlw-eSports-explorer/}
+[Clique aqui par acessar]{https://degson01.github.io/nlw-eSports-explorer/}
 
 ## tecnologias 
 
